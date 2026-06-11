@@ -1,0 +1,25 @@
+1 2 3 4 5 2 3 4 5 3 4 5 4 5 5 1 1 1 2 1 2 3
+Page replacement using FIFO
+time step 0: 1
+time step 1: 1 2
+time step 2: 1 2 3
+time step 3: 2 3 4
+time step 4: 3 4 5
+time step 5: 4 5 2
+time step 6: 5 2 3
+time step 7: 2 3 4
+time step 8: 3 4 5
+time step 9: 3 4 5
+time step 10: 3 4 5
+time step 11: 3 4 5
+time step 12: 3 4 5
+time step 13: 3 4 5
+time step 14: 3 4 5
+time step 15: 4 5 1
+time step 16: 4 5 1
+time step 17: 4 5 1
+time step 18: 5 1 2
+time step 19: 5 1 2
+time step 20: 5 1 2
+time step 21: 1 2 3
+total number of page faults = 12
